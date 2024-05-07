@@ -10,7 +10,7 @@ const BLOG = {
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light Mode siang, mode malam gelap, mode malam otomatis otomatis berdasarkan waktu dan tema
 
   AUTHOR: 'Ibrahim Khalillah Musthafa',
-  BIO: 'Fullstack javascript developer (nodejs, reactjs, nextjs, tailwind css)',
+  BIO: 'Artikel, Dokumentasi, Tulisan, dan Karya Ibrahim Khalillah Musthafa',
   LINK: 'https://khalillah.vercel.app',
   KEYWORDS: 'Ibrahim Khalillah Musthafa&apos;s Blog',
   CONTACT_EMAIL: 'ibrahim.khalillah.musthafa@gmail.com',
