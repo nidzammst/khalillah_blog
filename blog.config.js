@@ -9,11 +9,11 @@ const BLOG = {
   SINCE: 2024,
   APPEARANCE: 'auto', // ['light', 'dark', 'auto'], // light Mode siang, mode malam gelap, mode malam otomatis otomatis berdasarkan waktu dan tema
 
-  AUTHOR: 'nidzammst',
+  AUTHOR: 'Ibrahim Khalillah Musthafa',
   BIO: 'Fullstack javascript developer (nodejs, reactjs, nextjs, tailwind css)',
-  LINK: 'https://nidzammst.vercel.app',
-  KEYWORDS: 'Ahmad Nidzam Musthafa&apos;s Blog',
-  CONTACT_EMAIL: 'nidzam0501@gmail.com',
+  LINK: 'https://khalillah.vercel.app',
+  KEYWORDS: 'Ibrahim Khalillah Musthafa&apos;s Blog',
+  CONTACT_EMAIL: 'ibrahim.khalillah.musthafa@gmail.com',
   CONTACT_GITHUB: 'https://github.com/nidzammst',
 
   // font situs web
@@ -93,9 +93,9 @@ const BLOG = {
 
   // Konfigurasi usang
   AVATAR: '/avatar.png', // Avatar penulis ditutupi oleh ICON di pemberitahuan. Jika tidak ada ikon, ambil /public/avatar.png
-  TITLE: process.env.NEXT_PUBLIC_TITLE || 'nidzammst Blog', // Judul, ditimpa dengan judul halaman dalam pemberitahuan
+  TITLE: process.env.NEXT_PUBLIC_TITLE || 'khalillah Blog', // Judul, ditimpa dengan judul halaman dalam pemberitahuan
   HOME_BANNER_IMAGE: './bg_image.jpg', // Gambar latar belakang halaman beranda, Akan ditimpa oleh gambar sampul di pemberitahuan. Jika tidak ada gambar sampul, file /public/bg_image.jpg dalam kode akan digunakan.
-  DESCRIPTION: process.env.NEXT_PUBLIC_DESCRIPTION || 'Tulisan Ahmad Nidzam Musthafa', // Deskripsi situs, diganti dengan deskripsi halaman dalam pemberitahuan
+  DESCRIPTION: process.env.NEXT_PUBLIC_DESCRIPTION || 'Tulisan Ibrahim Khalillah Musthafa', // Deskripsi situs, diganti dengan deskripsi halaman dalam pemberitahuan
   // Building
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
   DEBUG: process.env.NEXT_PUBLIC_DEBUG || false, // Apakah akan menampilkan tombol debug
