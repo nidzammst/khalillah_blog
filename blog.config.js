@@ -7,7 +7,7 @@ const BLOG = {
   THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || false, // Apakah akan menampilkan tombol ganti tema
   LANG: 'en-US', // see /lib/lang.js for more.
   SINCE: 2024,
-  APPEARANCE: 'auto', // ['light', 'dark', 'auto'], // light Mode siang, mode malam gelap, mode malam otomatis otomatis berdasarkan waktu dan tema
+  APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light Mode siang, mode malam gelap, mode malam otomatis otomatis berdasarkan waktu dan tema
 
   AUTHOR: 'Ibrahim Khalillah Musthafa',
   BIO: 'Fullstack javascript developer (nodejs, reactjs, nextjs, tailwind css)',
